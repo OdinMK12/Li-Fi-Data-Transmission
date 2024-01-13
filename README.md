@@ -2,17 +2,17 @@
 This project demonstrates the use of Li-Fi technology to transmit data in a remote area. Li-Fi (Light Fidelity) is a wireless communication technology that uses light to transmit data. It is a promising technology for providing high-speed data access in remote areas, as it does not require the use of radio waves or other wireless signals.
 
 ## Components
-1.Laser Module
+1. Laser Module
 
-2.Resistors
+2. Resistors
 
-3.4x4 Keypad
+3. 4x4 Keypad
 
-4.Arduino Uno
+4. Arduino Uno
 
-5.LDR
+5. LDR
 
-6.16x2 I2C LCD Display
+6. 16x2 I2C LCD Display
 
 # Circuit Diagram
 ## LI-FI Transmitter:
