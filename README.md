@@ -8,7 +8,7 @@ This project demonstrates the use of Li-Fi technology to transmit data in a remo
 
 3. 4x4 Keypad
 
-4. Arduino Uno
+4. Arduino Uno (3 pcs)
 
 5. LDR
 
